@@ -13,8 +13,10 @@
         color: white;
         margin: 0px;
         padding: 0px;
-        background: url('img/abs-1850926_1280.jpg');
-        background-size: auto;
+        background: url('https://images.unsplash.com/photo-1434682966726-19ad3a76e143?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1053&q=80');
+        background-size: cover;
+        background-repeat: no-repeat;
+        
         font-family: 'Baloo Bhai 2', cursive;
         background: contain 200px 500px;
     }
@@ -111,7 +113,7 @@
 <body>
     <header class="header">
         <div class="left">
-            <img src="img/bg.jpg" alt="">
+            <img src="https://previews.123rf.com/images/koblizeek/koblizeek1902/koblizeek190200024/125627328-fitness-weight-icon-lifting-symbol-gym-illustration-vector-.jpg" alt="">
             <div>Mark's Gym</div>
         </div>
         <div class="mid">
