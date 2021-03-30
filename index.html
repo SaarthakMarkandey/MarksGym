@@ -13,7 +13,7 @@
         color: white;
         margin: 0px;
         padding: 0px;
-        background: url('img/abs-1850926_1280.jpg');
+        background: url('abs-1850926_1280.jpg');
         background-size: auto;
         font-family: 'Baloo Bhai 2', cursive;
         background: contain 200px 500px;
